@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "prop-types": "15.x",
-    "react-draggable": "^4.0.3"
+    "react-draggable": "^4.4.2"
   },
   "peerDependencies": {
     "react": "0.14.x || 15.x || 16.x",
